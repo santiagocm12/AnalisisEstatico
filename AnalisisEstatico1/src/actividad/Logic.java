@@ -38,7 +38,7 @@ public class Logic {
 	        
 	        }else {
 	        	
-	        	System.out.println("la lista no esta ordenada");
+	        	System.out.println("la lista no esta ordenada.");
 	      }
 		}
 	  }
